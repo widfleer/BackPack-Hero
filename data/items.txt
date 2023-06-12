@@ -1,0 +1,3 @@
+Wooden Sword, 7, 1 energy, (0,0) (1,0) (2,0), Common
+Bronze Breastplate, 7, 1 , (0,0) (1,0) (0,1) (1,1), Common
+Rough Buckler, 7, 1 energy, (0,0) (1,0) (0,1) (1,1)
