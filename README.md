@@ -1,6 +1,6 @@
 # BackPack Hero !
 
-Projet de BUT Informatique codé en `Java` et réalisé par en binome.
+Projet de BUT Informatique codé en `Java` et réalisé par en binôme.
 
 ![Screen d'un combat du jeu](./BackPackHero.png "Screen Combat")
 
