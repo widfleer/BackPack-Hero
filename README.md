@@ -7,6 +7,12 @@ Projet de BUT Informatique codé en `Java` et réalisé par en binôme.
 # Règles du jeu
 Le but de ce projet est de réaliser une version simplifiée du jeu Backpack Hero. Il s’agit d’un jeu pour un seul joueur : le héros doit explorer un donjon peuplé de monstres et de trésors, et ne pourra s’aider que du matériel que l’on transporte dans son sac à dos. C’est un jeu de type rogue-like dont une des composantes principales consiste en du placement de tuiles qui interagiront ; la nature de ces interactions sera décrite dans les sections ci-dessous.
 
+# Lancer le jeu 
+- Clôner le dépôt du projet
+- Ouvrir le projet dans un IDE avec java (Eclipse, IntelliJ....)
+- Ajouter le `include/zen5.jar` dans le classpath du projet
+- Run à partir du `src/bph/controller/SimpleGameController.java` et amusez vous !
+
 
 ## Ce qui a été implémenté
 **Dans le jeu :**
